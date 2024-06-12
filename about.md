@@ -34,4 +34,4 @@ Nov 2020: Since Gitbook abandoned their open source software, migrated to [Honki
 
 ## About the Author
 
-See {{ book.authorUrl }}
+Bakınız {{ book.authorUrl }}
