@@ -32,6 +32,6 @@ For the tenth draft, I switched to writing in Markdown + [GitBook](https://www.g
 
 Nov 2020: Since Gitbook abandoned their open source software, migrated to [Honkit, a community-maintained fork of Gitbook legacy](https://github.com/honkit/honkit).
 
-## About the Author
+## Yazar hakkında
 
 Bakınız {{ book.authorUrl }}
